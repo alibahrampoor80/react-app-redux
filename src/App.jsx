@@ -10,7 +10,7 @@ const App = () => {
     return <>
         <Provider store={store}>
             <h1>ali bahrampoor</h1>
-            <h2>im web developer</h2>
+            <h2> web developer</h2>
              {/*<CakeContainer/>*/}
             <HooksCakeContainer/>
             <IceContainer/>
